@@ -1,0 +1,3 @@
+MONGO_DATABASE_NAME='CementStrengthDetection'
+MONGO_COLLECTION_NAME='cementdata'
+AWS_S3_BUCKET_NAME='CementStrengthDetection'
