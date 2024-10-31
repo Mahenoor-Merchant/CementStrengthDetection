@@ -16,7 +16,7 @@ def get_requirements(file_path:str):
 
 
 setup(
-    name='WaferFaultDetection',
+    name='CementStrengthDetection',
     version='0.0.1',
     author='Mahenoor Merchant',
     author_email='merchant0710@gmail.com',
